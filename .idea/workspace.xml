@@ -2,20 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f73057d2-15e0-467b-87d0-56d76cfb91be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/background.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/boulangerie.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/boulangerie2.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/mariage.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/mariageMobile.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/mobile.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/lazyLoading.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/script.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/style.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/bootstrapOptimized.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/style.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.min.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.min.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,11 +28,11 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/indexNoMin.html">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="6" column="33" selection-end-line="80" selection-end-column="7" />
+            <state relative-caret-position="243">
+              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
               <folding>
                 <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#1;n#div#1;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -49,25 +42,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.min.html">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="6630" selection-start-column="6630" selection-end-column="6630" />
+              <caret column="6635" selection-start-column="6635" selection-end-column="6635" />
               <folding>
                 <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#1;n#div#1;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#2;n#div#1;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/lazyLoading.min.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -75,7 +59,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
+            <state relative-caret-position="-2905">
               <caret line="122" column="33" lean-forward="true" selection-end-line="256" selection-end-column="27" />
             </state>
           </provider>
@@ -84,8 +68,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/style.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="3650" selection-start-column="3650" selection-end-column="3650" />
+            <state relative-caret-position="27">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -94,8 +78,10 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>--main-color-2</find>
       <find>them</find>
+      <find>icon</find>
+      <find>--main-color-2</find>
+      <find>media</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -107,27 +93,18 @@
         <option value="$PROJECT_DIR$/assets/script.min.js" />
         <option value="$PROJECT_DIR$/assets/lazyLoading.min.js" />
         <option value="$PROJECT_DIR$/assets/style.css" />
-        <option value="$PROJECT_DIR$/assets/style.min.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/assets/index.min.html" />
         <option value="$PROJECT_DIR$/assets/script.js" />
         <option value="$PROJECT_DIR$/indexNoMin.html" />
         <option value="$PROJECT_DIR$/index.min.html" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/GreenItOnePage.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/assets/bootstrapOptimized.css" />
+        <option value="$PROJECT_DIR$/assets/style.min.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
+    <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -168,6 +145,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -210,12 +188,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1616170242389</updated>
-      <workItem from="1616170244241" duration="4278000" />
+      <workItem from="1616170244241" duration="6308000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4278000" />
+    <option name="totallyTimeSpent" value="6308000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -246,9 +224,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/bootstrap.min.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -266,20 +241,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="122" column="33" lean-forward="true" selection-end-line="256" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/style.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="3650" selection-start-column="3650" selection-end-column="3650" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/index.min.html">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -290,10 +251,47 @@
     <entry file="file://$PROJECT_DIR$/assets/script.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/indexNoMin.html">
+    <entry file="file://$PROJECT_DIR$/assets/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2905">
+          <caret line="122" column="33" lean-forward="true" selection-end-line="256" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/bootstrapOptimized.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
-          <caret line="6" column="33" selection-end-line="80" selection-end-column="7" />
+          <caret line="1" lean-forward="true" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4295">
+          <caret line="1" column="35154" selection-end-line="2" />
+          <folding>
+            <element signature="e#28161#28416#2" expanded="true" />
+            <element signature="e#29013#29187#1" expanded="true" />
+            <element signature="e#29227#29482#1" expanded="true" />
+            <element signature="e#31800#32114#2" expanded="true" />
+            <element signature="e#32723#32897#1" expanded="true" />
+            <element signature="e#32937#33251#1" expanded="true" />
+            <element signature="e#62224#62432#2" expanded="true" />
+            <element signature="e#62661#62818#2" expanded="true" />
+            <element signature="e#63221#63377#2" expanded="true" />
+            <element signature="e#64864#65038#1" expanded="true" />
+            <element signature="e#78854#79107#2" expanded="true" />
+            <element signature="e#79974#80233#2" expanded="true" />
+            <element signature="e#110212#110408#2" expanded="true" />
+            <element signature="e#110454#110651#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.min.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6635" selection-start-column="6635" selection-end-column="6635" />
           <folding>
             <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#1;n#div#1;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -302,10 +300,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.min.html">
+    <entry file="file://$PROJECT_DIR$/assets/style.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6630" selection-start-column="6630" selection-end-column="6630" />
+        <state relative-caret-position="27">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
           <folding>
             <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#1;n#div#1;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
